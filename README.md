@@ -14,7 +14,7 @@ Optimizar las ofertas y promociones.
 Mejorar la experiencia de compra en general.
 
 📊 Descripción del Conjunto de Datos
-El análisis se realizó sobre el archivo Mall_Customers.csv, que contiene información de 200 clientes. Las columnas clave utilizadas para el análisis son:
+El análisis se realizó sobre el archivo SegmentacionClientes.csv, que contiene información de 200 clientes. Las columnas clave utilizadas para el análisis son:
 
 Gender: Género del cliente.
 
