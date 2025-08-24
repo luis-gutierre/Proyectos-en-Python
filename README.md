@@ -1,4 +1,5 @@
-Mall Customer Segmentation 🛍️
+Segementacion de Clientes 🛍️
+
 Este proyecto se centra en el análisis de datos y la segmentación de clientes de un centro comercial. Utilizando técnicas de clustering, el objetivo es dividir a los clientes en grupos con características similares para que el equipo de marketing pueda desarrollar estrategias dirigidas y personalizadas.
 
 🎯 Objetivo del Proyecto
